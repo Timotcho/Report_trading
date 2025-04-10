@@ -2,8 +2,6 @@
   "name": "objectif-rich-pwa",
   "version": "1.0.0",
   "private": true,
-  "description": "Suivi de ton objectif financier et de ton capital.",
-  "main": "src/index.js",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -16,9 +14,6 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^4.0.3"
   },
-  "devDependencies": {
-    "webpack": "^5.40.0"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -30,8 +25,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-    "node": "14.x"
   }
 }
